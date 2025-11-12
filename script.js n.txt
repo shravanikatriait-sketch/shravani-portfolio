@@ -1,0 +1,8 @@
+// simple jQuery animation on page load
+$(document).ready(function() {
+  $(".container").hide().fadeIn(1000);
+
+  $("#msgBtn").click(function() {
+    alert("Thank you for visiting Shravani's website!");
+  });
+});
