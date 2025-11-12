@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>K Shravani - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>K Shravani</h1>
+  <p>Student | Aspiring Software Developer</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="resume.html">Resume</a>
+  <a href="biodata.html">Biodata</a>
+</nav>
+
+<div class="container">
+  <h2>Welcome!</h2>
+  <p>Hello, I’m <b>K Shravani</b> — a 3rd-year Computer Science student at Atria Institute of Technology.  
+  I’m passionate about programming and eager to grow in the IT industry.</p>
+
+  <button id="msgBtn">Click Me</button>
+</div>
+
+</body>
+</html>
