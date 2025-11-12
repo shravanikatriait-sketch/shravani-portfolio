@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume - K Shravani</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="script.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>Resume</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="resume.html">Resume</a>
+  <a href="biodata.html">Biodata</a>
+</nav>
+
+<div class="container">
+  <h2>K Shravani</h2>
+  <p>Email: <b>shravanikait@gmail.com</b> | Phone: <b>7676386083</b></p>
+
+  <h3>Career Objective</h3>
+  <p>Seeking an entry-level position in Computer Science where I can apply my programming knowledge and problem-solving skills.
+     Eager to learn new technologies and contribute to organizational growth.
+     Looking to build a strong foundation in the IT industry.</p>
+
+  <h3>Education</h3>
+  <ul>
+    <li><b>B.E. in Computer Science</b> – Atria Institute of Technology (3rd Year), CGPA 8.5</li>
+  </ul>
+
+  <h3>Skills</h3>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Java</li>
+    <li>HTML & CSS</li>
+  </ul>
+
+</div>
+
+</body>
+</html>
